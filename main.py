@@ -51,4 +51,4 @@ class MyClient(discord.Client):
             print("не верное эмодзи или канал")
 
 client = MyClient()
-client.run('OTk5NjQ0NzAxMzU3NTEwNzI2.GASCob.rCYo2YngMBB6E0SsGy6hmaGmy-Mma4O1_iOyPI')
+client.run('')
